@@ -11,6 +11,10 @@ module.exports = {
     'no-console': 1,
     'linebreak-style': ['error', 'windows'],
     quotes: ['error', 'single'],
-    semi: ['error', 'always']
-  }
-};
+    semi: ['error', 'always'],
+    "no-unused-vars": ["error", {
+      "vars": "all",
+      "args": "none",
+      "ignoreRestSiblings": true
+    }]
+  };
