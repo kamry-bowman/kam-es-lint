@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-kam-es-lint",
+  "version": "1.0.0",
+  "description": "Kam's linting rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
